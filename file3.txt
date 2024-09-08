@@ -1,0 +1,1 @@
+this is from AWS post origin map - ubuntu EC2
